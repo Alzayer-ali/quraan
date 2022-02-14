@@ -1,0 +1,56 @@
+*{
+ margin: 0;
+ padding: 0;   
+}
+body{
+    background-color: black;
+}
+
+#quran{
+    text-align: center;
+    color: rgb(179, 179, 179);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 25px;
+    border-bottom: 2px solid rgba(255, 255, 255, 0.123);
+    padding-bottom: 20px;
+}
+
+p{
+    color: white;
+    font-size: 180%;
+    padding-right: 30px;
+    padding-left: 30px;
+    margin-right: auto;
+    margin-left: auto;
+    line-height: 40px;
+    text-align: justify;
+    text-align-last: right;
+    margin-bottom: 70px;
+}
+
+#fashel{
+    width: 99%;
+    color: rgb(95, 164, 255);
+    text-align: center;
+    border: 3px solid rgba(0, 140, 255, 0.233);
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+/* hr{
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    margin-bottom: 30px;
+} */
+
+#basmalah{
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+}
